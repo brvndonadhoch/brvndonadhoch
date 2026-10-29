@@ -43,6 +43,6 @@ Responsive one-page site with a full-screen hero, photo grid, pricing packages a
 
 ## 📫 Let's Connect
 
-I'm open to software development roles and freelance projects. The best way to reach me is at [info@brandonadhoch.dev](mailto:info@brandonadhoch.dev) or through [LinkedIn](https://linkedin.com/in/brandon-adhoch-82954126a/).
+I'm open to software development roles and freelance projects. The best way to reach me is at [info@brandonadhoch.dev](mailto:info@brandonadhoch.dev).
 
 When I'm not coding, you'll find me hiking or hunting for a good barbecue house. 🍖
